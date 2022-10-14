@@ -1,4 +1,4 @@
-# sorting-algorithms-complexity-visualization
+# Sorting Algorithms Complexity Visualization
 Time complexities of sorting algorithms are visualized via matplotlib.pyplot
 
 Comparison sorts that are Quicksort, Merge sort and Heapsort; non-comparison sorts that are LSD Radix Sort and Counting Sort are tested based on the sizes of randomly shuffled arrays.
